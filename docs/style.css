@@ -1,0 +1,16 @@
+body{
+    background-image: url('background.png');
+}
+
+div.menu{
+    font-size: 2vw;
+    padding: 1.5vw;
+    padding-left: 1vw;
+    box-sizing:content-box;
+}
+
+h1{
+    font-size: 3vw;
+    text-align: left;
+    margin-left: 2vw;
+}
